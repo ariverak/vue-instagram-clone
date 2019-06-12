@@ -9,6 +9,7 @@
 </template>
 
 <script>
+import '../assets/css/main.css'
 export default {
   components: {
   },
@@ -16,8 +17,6 @@ export default {
 }
 </script>
 
-<style>
-.container {
- 
-}
+<style scoped>
 </style>
+
