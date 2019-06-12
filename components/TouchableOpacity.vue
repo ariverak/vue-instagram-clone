@@ -22,9 +22,11 @@ export default {
 <style scoped>
     .root {
         cursor : pointer;
+         margin-left: 30px;
     }
     .touchable {
         opacity: 0.4;
+       
     }
 </style>
 
